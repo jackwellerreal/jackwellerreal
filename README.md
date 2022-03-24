@@ -2,7 +2,9 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=What-Question-Mark&count_private=true&include_all_commits=true&show_icons=true&theme=monokai&hide_border=true">
 
-A high school student who lives in Australia 🇦🇺
+A high school student who lives in Australia
+
+I am studing japanese and python
 
 ## I am currently working on:
 
