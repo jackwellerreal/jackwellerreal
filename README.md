@@ -10,7 +10,7 @@ I am studing japanese and python
 
 - [Pensive Bot](https://discord.gg/2tgnZDbFhP)
 
-### I know:
+## I know:
 
 [![python](https://img.shields.io/badge/-Python-4B8BBE?style=flat)](https://discord.gg/2tgnZDbFhP)
 [![html](https://img.shields.io/badge/-HTML-e34c26?style=flat)](https://discord.gg/2tgnZDbFhP)
