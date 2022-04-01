@@ -2,6 +2,8 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=What-Question-Mark&include_all_commits=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=True">
 
+<img width="50%" align="right" src="https://discord.c99.nl/widget/theme-4/693325366365913164.png">
+
 A high school student who lives in Australia
 
 I am studing japanese and python
