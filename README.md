@@ -9,6 +9,7 @@ I am studing japanese and python
 ## I am currently working on:
 
 - [Pensive Bot](https://discord.gg/2tgnZDbFhP)
+- [Smythy's Website](https://github.com/What-Question-Mark/smythy)
 
 ## I know:
 
