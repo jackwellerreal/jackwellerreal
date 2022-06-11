@@ -18,4 +18,4 @@ I am studing japanese and python
 
 ## I am learning:
 
-[![NodeJS]([https://img.shields.io/badge/-Python-4B8BBE?style=flat](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat))]
+[![NodeJS](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat)]
