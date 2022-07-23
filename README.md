@@ -19,3 +19,8 @@ I am studing japanese and python
 ## I am learning:
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat)
+
+## How to contact me:
+
+Email: `jack.weller@hotmail.com`
+Discord: `what?#6510`
