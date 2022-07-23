@@ -12,10 +12,10 @@ I am studing japanese and python
 
 ## I know:
 
-[![python](https://img.shields.io/badge/-Python-4B8BBE?style=flat)]
-[![html](https://img.shields.io/badge/-HTML-e34c26?style=flat)]
-[![css](https://img.shields.io/badge/-CSS-264de4?style=flat)]
+![python](https://img.shields.io/badge/-Python-4B8BBE?style=flat)
+![html](https://img.shields.io/badge/-HTML-e34c26?style=flat)
+![css](https://img.shields.io/badge/-CSS-264de4?style=flat)
 
 ## I am learning:
 
-[![NodeJS](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat)]
+![NodeJS](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat)
