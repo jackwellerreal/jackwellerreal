@@ -23,4 +23,5 @@ I am studing japanese and python
 ## How to contact me:
 
 Email: `jack.weller@hotmail.com`
+
 Discord: `what?#6510`
