@@ -10,17 +10,13 @@ I am studing japanese and python
 
 ## I am currently working on:
 
-- Skyblock API
-
-## I know:
-
-![python](https://img.shields.io/badge/-Python-4B8BBE?style=flat)
-![html](https://img.shields.io/badge/-HTML-e34c26?style=flat)
-![css](https://img.shields.io/badge/-CSS-264de4?style=flat)
+- Birb Paradise Website
 
 ## I am learning:
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-f7df1e?style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat)
+![html](https://img.shields.io/badge/-HTML-e34c26?style=flat)
+![css](https://img.shields.io/badge/-CSS-264de4?style=flat)
 
 ## How to contact me:
 
