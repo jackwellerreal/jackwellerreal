@@ -6,8 +6,6 @@
 
 A high school student who lives in Australia
 
-I am studing japanese and python
-
 ## I am currently working on:
 
 - Birb Paradise Website
