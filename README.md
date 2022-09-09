@@ -12,7 +12,8 @@ A high school student who lives in Australia
 
 ## I am working on:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat)
+- [Birb Paradise Website](https://github.com/What-Question-Mark/birb)
+- [Synefo Website](https://github.com/synefo-discord/synefo-discord.github.io)
 
 ## I am learning:
 
