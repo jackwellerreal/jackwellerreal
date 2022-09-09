@@ -8,7 +8,11 @@ A high school student who lives in Australia
 
 ## My website:
 
-- https://what.is-a.dev
+- https://what-question-mark.github.io/
+
+## I am working on:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat)
 
 ## I am learning:
 
