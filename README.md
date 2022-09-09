@@ -8,7 +8,7 @@ A high school student who lives in Australia
 
 ## My website:
 
-- https://what-question-mark.github.io/
+https://what-question-mark.github.io/
 
 ## I am working on:
 
