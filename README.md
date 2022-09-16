@@ -21,6 +21,7 @@ https://what-question-mark.github.io/
 ![html](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![css](https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=fff&style=for-the-badge)
 ![js](https://img.shields.io/badge/JAVASCRIPT-F6DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![react](https://img.shields.io/badge/REACT.JS-61DBFB?logo=createreactapp&logoColor=000&style=for-the-badge)
 
 ## How to contact me:
 
