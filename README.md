@@ -9,7 +9,7 @@ A high school student who lives in Australia
 
 ## My website:
 
-https://what-question-mark.github.io/
+https://what.is-a.dev/
 
 ## I am working on:
 
