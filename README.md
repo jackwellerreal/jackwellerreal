@@ -31,12 +31,8 @@ A high school student who lives in Australia
 <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"></a>
 <a href="https://en.wikipedia.org/wiki/Python_Package_Index"><img src="https://img.shields.io/badge/PyPI-4B8BBE?style=for-the-badge&logo=pypi&logoColor=fff"></a>
 <a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=fff"/></a>
-
-## My setup:
-
-<a href="https://en.wikipedia.org/wiki/Discord"><img src="https://img.shields.io/badge/Chrome-FCC31E?style=for-the-badge&logo=googlechrome&logoColor=000"></a>
-<a href="https://en.wikipedia.org/wiki/Discord"><img src="https://img.shields.io/badge/Windows%2010-00ADEF?style=for-the-badge&logo=windows&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/VSC-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=fff"></a>
+<a href="https://en.m.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/Windows%2010-00ADEF?style=for-the-badge&logo=windows&logoColor=fff"></a>
+<a href="https://en.m.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/VSC-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=fff"></a>
 
 ## How to contact me:
 
