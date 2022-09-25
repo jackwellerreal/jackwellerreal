@@ -16,12 +16,11 @@ A high school student who lives in Australia
 - [Birb Paradise Website](https://github.com/What-Question-Mark/birb)
 - [Synefo Website](https://github.com/synefo-discord/synefo-discord.github.io)
 
-## I am learning:
+## My stack:
 
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=fff&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F6DF1E?logo=javascript&logoColor=000&style=for-the-badge"></a>
-<a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language"><img src="https://img.shields.io/badge/PYTHON-4B8BBE?logo=PYTHON&logoColor=fff&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://img.shields.io/badge/REACT.JS-61DBFB?logo=createreactapp&logoColor=000&style=for-the-badge"></a>
 
