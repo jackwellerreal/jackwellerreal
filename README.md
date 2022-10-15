@@ -13,8 +13,11 @@ A high school student who lives in Australia
 
 ## I am working on:
 
-- [Birb Paradise Website](https://github.com/What-Question-Mark/birb)
-- [Synefo Website](https://github.com/synefo-discord/synefo-discord.github.io)
+- Nothing lol
+
+## My achievements:
+
+- 🥈 Spookscord 2022 Week1
 
 ## My stack:
 
