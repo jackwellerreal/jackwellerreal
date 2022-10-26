@@ -10,7 +10,6 @@ A high school student who lives in Australia
 ## My website:
 
 - https://what.is-a.dev/
-- http://thisistheworldslongestdomainnameanditsownedbywhatquestionmarkok.online/ (Worlds Longest Domain Name!)
 
 ## I am working on:
 
