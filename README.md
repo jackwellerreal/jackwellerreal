@@ -14,7 +14,7 @@ A high school student who lives in Australia
 
 ## I am working on:
 
-- [SocialMediaAppLikeTwitterButIsntOwnedByElonMusk](https://github.com/What-Question-Mark/socialmediaapp)
+- [Konnect](https://github.com/What-Question-Mark/konnect)
 
 ## My achievements:
 
