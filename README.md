@@ -35,5 +35,5 @@
 
 <details open>
     <summary><h3>🐍 Contribution Snake</h3></summary>
-    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svG"/>
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </details>
