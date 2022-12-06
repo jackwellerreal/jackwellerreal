@@ -1,37 +1,31 @@
-# 👋 Hey there!
+<h1>👋 Hey there!</h1>
+
 
 <a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=What-Question-Mark&include_all_commits=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=True"></a>
 <a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=What-Question-Mark&include_all_commits=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=True&layout=compact"></a>
 
+<h4>A high school student who lives in Australia</h4>
 
-<img src="https://komarev.com/ghpvc/?username=what-question-mark&style=for-the-badge&color=blue"> <img src="https://img.shields.io/github/followers/what-question-mark?color=007ec6&label=Followers&style=for-the-badge"> <img src="https://img.shields.io/badge/PRO-8957E5?logo=star&logoColor=8b949e&style=for-the-badge">
+<h3> 🪁 Some of my projects </h3>
 
-A high school student who lives in Australia
+<a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
+<a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>
 
-## My website:
-
-- https://what.is-a.dev/
-
-## I am working on:
-
-- [Konnect](https://github.com/What-Question-Mark/konnect)
-
-## My achievements:
-
-- 🥈 Spookscord 2022 Week1
-
-## My stack:
+<h3>👨‍💻 Languages</h3>
 
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=fff&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F6DF1E?logo=javascript&logoColor=000&style=for-the-badge"></a>
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/PYTHON-4B8BBE?logo=PYTHON&logoColor=fff&style=for-the-badge"></a>
+<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff"></a>
 
-## What I use:
+<h3>🧰 Tools</h3>
 
 <a href="https://en.wikipedia.org/wiki/Discord"><img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
 <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/Python_Package_Index"><img src="https://img.shields.io/badge/PyPI-4B8BBE?style=for-the-badge&logo=pypi&logoColor=fff"></a>
+<a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"></a>
+<a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"></a>
+<a href="https://en.wikipedia.org/wiki/Vercel"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=fff"/></a>
 <a href="https://en.m.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/Windows%2010-00ADEF?style=for-the-badge&logo=windows&logoColor=fff"></a>
-<a href="https://en.m.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/VSC-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=fff"></a>
+<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"></a>
