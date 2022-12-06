@@ -1,8 +1,7 @@
-<h1>👋 Hey there!</h1>
-
-
 <a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=What-Question-Mark&include_all_commits=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=True"></a>
 <a href="https://github.com/What-Question-Mark"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=What-Question-Mark&include_all_commits=true&show_icons=true&include_all_commits=true&theme=monokai&hide_border=True&layout=compact"></a>
+
+<h1>👋 Hey there!</h1>
 
 <h4>A high school student who lives in Australia</h4>
 
