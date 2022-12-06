@@ -6,28 +6,35 @@
 
 <h4>A high school student who lives in Australia</h4>
 
-<h3> 🪁 Some of my projects </h3>
-
-<p>
+<details open>
+    <summary><h3> 🪁 Some of my projects </h3></summary>
     <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>
-</p>
+    <a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>   
+</details> 
 
-<h3>👨‍💻 Languages</h3>
+<details open>
+    <summary><h3>👨‍💻 Languages</h3></summary>
+    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge"></a>
+    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=fff&style=for-the-badge"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F6DF1E?logo=javascript&logoColor=000&style=for-the-badge"></a>
+    <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/PYTHON-4B8BBE?logo=PYTHON&logoColor=fff&style=for-the-badge"></a>
+    <a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff"></a>
+</details>
 
-<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge"></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-264DE4?logo=css3&logoColor=fff&style=for-the-badge"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JAVASCRIPT-F6DF1E?logo=javascript&logoColor=000&style=for-the-badge"></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/PYTHON-4B8BBE?logo=PYTHON&logoColor=fff&style=for-the-badge"></a>
-<a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff"></a>
+<details open>
+    <summary><h3>🧰 Tools</h3></summary>
+    <a href="https://en.wikipedia.org/wiki/Discord"><img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
+    <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"></a>
+    <a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"></a>
+    <a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"></a>
+    <a href="https://en.wikipedia.org/wiki/Vercel"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=fff"/></a>
+    <a href="https://en.m.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/Windows%2010-00ADEF?style=for-the-badge&logo=windows&logoColor=fff"></a>
+    <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"></a>
+</details>
 
-<h3>🧰 Tools</h3>
-
-<a href="https://en.wikipedia.org/wiki/Discord"><img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"></a>
-<a href="https://en.wikipedia.org/wiki/Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/Vercel"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=fff"/></a>
-<a href="https://en.m.wikipedia.org/wiki/Windows_10"><img src="https://img.shields.io/badge/Windows%2010-00ADEF?style=for-the-badge&logo=windows&logoColor=fff"></a>
-<a href="https://en.wikipedia.org/wiki/Visual_Studio_Code"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff"></a>
+<details open>
+    <summary><h3>📆 Recent Activity</h3></summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+</details>
