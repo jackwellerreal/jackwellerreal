@@ -34,12 +34,12 @@
 </details>
 
 <details open>
-    <summary><h3>📆 Recent Activity</h3></summary>
-    <!--START_SECTION:activity-->
+<summary><h3>📆 Recent Activity</h3></summary>
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/What-Question-Mark/Konnect/pull/3) in [What-Question-Mark/Konnect](https://github.com/What-Question-Mark/Konnect)
 2. 💪 Opened PR [#3](https://github.com/What-Question-Mark/Konnect/pull/3) in [What-Question-Mark/Konnect](https://github.com/What-Question-Mark/Konnect)
 3. ❗️ Closed issue [#1](https://github.com/What-Question-Mark/Konnect/issues/1) in [What-Question-Mark/Konnect](https://github.com/What-Question-Mark/Konnect)
-    <!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <details open>
