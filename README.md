@@ -38,3 +38,8 @@
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
 </details>
+
+<details open>
+    <summary><h3>🐍 Contribution Snake</h3></summary>
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svG"/>
+</details>
