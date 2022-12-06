@@ -8,8 +8,10 @@
 
 <h3> 🪁 Some of my projects </h3>
 
-<a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
-<a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>
+<p>
+    <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
+    <a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>
+</p>
 
 <h3>👨‍💻 Languages</h3>
 
