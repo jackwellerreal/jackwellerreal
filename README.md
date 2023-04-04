@@ -9,9 +9,9 @@
 
 <details open>
     <summary><h3> 🪁 Some of my projects </h3></summary>
+    <a href="https://github.com/What-Question-Mark/campusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=campusRoute&theme=monokai&hide_border=True"></a>
     <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=nodejs-maze&theme=monokai&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/birb"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=birb&theme=monokai&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=nodejs-maze&theme=monokai&hide_border=True"></a>   
 </details> 
 
 <details open>
