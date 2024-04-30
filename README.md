@@ -3,10 +3,10 @@
 
 <details open>
     <summary><h3> 🪁 Some of my projects</h3></summary>
-    <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=CampusRoute&theme=monokai&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=konnect&theme=monokai&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=chat&theme=monokai&hide_border=True"></a>   
-    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=what-question-mark&repo=nodejs-maze&theme=monokai&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=CampusRoute&theme=github_dark&hide_border=True"></a>
+    <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&theme=github_dark&hide_border=True"></a>
+    <a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=chat&theme=github_dark&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&theme=github_dark&hide_border=True"></a>   
 </details> 
 
 <details open>
