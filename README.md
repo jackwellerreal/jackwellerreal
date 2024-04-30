@@ -2,11 +2,17 @@
 <h4>A high school student who lives in Australia</h4>
 
 <details open>
+    <summary><h3> 🐙 Github stats</h3></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=jackwellerreal&show_icons=true&theme=github_dark_dimmed&hide_border=True"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&theme=github_dark_dimmed&hide_border=True">
+</details> 
+
+<details open>
     <summary><h3> 🪁 Some of my projects</h3></summary>
-    <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=CampusRoute&theme=github_dark&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&theme=github_dark&hide_border=True"></a>
-    <a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=chat&theme=github_dark&hide_border=True"></a>   
-    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&theme=github_dark&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=CampusRoute&theme=github_dark_dimmed&hide_border=True"></a>
+    <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&theme=github_dark_dimmed&hide_border=True"></a>
+    <a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=chat&theme=github_dark_dimmed&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&theme=github_dark_dimmed&hide_border=True"></a>   
 </details> 
 
 <details open>
@@ -17,5 +23,3 @@
     <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/PYTHON-4B8BBE?logo=PYTHON&logoColor=fff&style=for-the-badge"></a>
     <a href="https://en.wikipedia.org/wiki/Node.js"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff"></a>
 </details>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
