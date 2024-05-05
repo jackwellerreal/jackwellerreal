@@ -22,5 +22,12 @@
     <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=CampusRoute&theme=github_dark_dimmed&hide_border=True"></a>
     <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&theme=github_dark_dimmed&hide_border=True"></a>
     <a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=chat&theme=github_dark_dimmed&hide_border=True"></a>   
-    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&theme=github_dark_dimmed&hide_border=True"></a>   
+    <a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&theme=github_dark_dimmed&hide_border=True"></a><br>
+    <a href=https://github.com/jackwellerreal?tab=repositories>View more</a>
+</details> 
+
+
+<details open>
+    <summary><h3> 🐍 Contribution Snake</h3></summary>
+    <img height=200 src="https://github.com/jackwellerreal/jackwellerreal/blob/output/github-contribution-grid-snake-dark.svg">
 </details> 
