@@ -29,5 +29,5 @@
 
 <details open>
     <summary><h3> 🐍 Contribution Snake</h3></summary>
-    <img height=200 src="https://github.com/jackwellerreal/jackwellerreal/blob/output/github-contribution-grid-snake-dark.svg">
+    <img height=200 src="https://github.com/jackwellerreal/jackwellerreal/blob/output/snake-dark.svg">
 </details> 
