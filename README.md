@@ -19,7 +19,7 @@
 
 <details open>
     <summary><h3>🏆 Trophies</h3></summary>
-    <img height=200 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed&no-frame=true">
+    <img height=200 src="https://github-profile-trophy.vercel.app/?username=jackwellerreal&theme=dark_dimmed&no-frame=true">
 </details>
 
 <details open>
