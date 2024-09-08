@@ -18,6 +18,11 @@
 </details> 
 
 <details open>
+    <summary><h3>🏆 Trophies</h3></summary>
+    <img height=200 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed&no-frame=true">
+</details>
+
+<details open>
     <summary><h3> 🪁 Some of my projects</h3></summary>
     <a href="https://github.com/What-Question-Mark/CampusRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=CampusRoute&theme=github_dark_dimmed&hide_border=True"></a>
     <a href="https://github.com/What-Question-Mark/Konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&theme=github_dark_dimmed&hide_border=True"></a>
