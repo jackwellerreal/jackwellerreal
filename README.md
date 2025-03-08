@@ -14,17 +14,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="10%"></a>
 </details>
 
+
+
+
 <details open>
     <summary><h3>Blog Posts</h3></summary>
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
 </details> 
 
-
 <details open>
     <summary><h3>Github stats</h3></summary>
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=jackwellerreal&show_icons=true&theme=github_dark_dimmed&hide_border=True">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&theme=github_dark_dimmed&hide_border=True">
+</details> 
+
+<details open>
+    <summary><h3>Github activity</h3></summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
 </details> 
 
 <details open>
