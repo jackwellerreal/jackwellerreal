@@ -20,7 +20,8 @@
 <details open>
     <summary><h3>Blog Posts</h3></summary>
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [How I hacked Red Rooster to get unlimited free food](https://www.jackweller.me/blog/redrooster/)
+<!-- BLOG-POST-LIST:END -->
 </details> 
 
 <details open>
