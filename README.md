@@ -19,9 +19,11 @@
 
 <details open>
     <summary><h3>Blog Posts</h3></summary>
-    <!-- BLOG-POST-LIST:START -->
-- [How I hacked Red Rooster to get unlimited free food](https://www.jackweller.me/blog/redrooster/)
-<!-- BLOG-POST-LIST:END -->
+    <p>
+        <!-- BLOG-POST-LIST:START -->
+        - [How I hacked Red Rooster to get unlimited free food](https://www.jackweller.me/blog/redrooster/)
+        <!-- BLOG-POST-LIST:END -->
+    </p>
 </details> 
 
 <details open>
@@ -32,13 +34,15 @@
 
 <details open>
     <summary><h3>Github activity</h3></summary>
-    <!--START_SECTION:activity-->
+    <p>
+        <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2515](https://github.com/homarr-labs/homarr/issues/2515#issuecomment-2702986374) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 2. 🗣 Commented on [#2514](https://github.com/homarr-labs/homarr/pull/2514#issuecomment-2702879319) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 3. 🗣 Commented on [#2515](https://github.com/homarr-labs/homarr/issues/2515#issuecomment-2702846771) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 4. ❗ Opened issue [#2515](https://github.com/homarr-labs/homarr/issues/2515) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 5. 💪 Opened PR [#2514](https://github.com/homarr-labs/homarr/pull/2514) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
-    <!--END_SECTION:activity-->
+        <!--END_SECTION:activity-->
+    </p>
 </details> 
 
 <details open>
