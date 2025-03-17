@@ -32,7 +32,7 @@ Currently working on my Certificate III in Information Technology
 
 ### Github stats
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=jackwellerreal&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=jackwellerreal&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?username=jackwellerreal&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c">
 
 
 ### Github activity
