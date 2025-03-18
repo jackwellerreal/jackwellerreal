@@ -38,11 +38,11 @@ Currently working on my Certificate III in Information Technology
 ### Github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2614](https://github.com/homarr-labs/homarr/pull/2614#issuecomment-2728277464) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
-2. 🗣 Commented on [#2617](https://github.com/homarr-labs/homarr/issues/2617#issuecomment-2727168261) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
-3. 💪 Opened PR [#2614](https://github.com/homarr-labs/homarr/pull/2614) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
-4. 🗣 Commented on [#1014](https://github.com/homarr-labs/homarr/issues/1014#issuecomment-2720906264) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
-5. 🗣 Commented on [#2528](https://github.com/homarr-labs/homarr/issues/2528#issuecomment-2709294284) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+1. 🗣 Commented on [#2579](https://github.com/homarr-labs/homarr/pull/2579#issuecomment-2731899511) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+2. 🗣 Commented on [#2614](https://github.com/homarr-labs/homarr/pull/2614#issuecomment-2728277464) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+3. 🗣 Commented on [#2617](https://github.com/homarr-labs/homarr/issues/2617#issuecomment-2727168261) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+4. 💪 Opened PR [#2614](https://github.com/homarr-labs/homarr/pull/2614) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+5. 🗣 Commented on [#1014](https://github.com/homarr-labs/homarr/issues/1014#issuecomment-2720906264) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 <!--END_SECTION:activity-->
 
     
