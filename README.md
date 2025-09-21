@@ -38,7 +38,7 @@ Currently working on my Certificate III in Information Technology
 ### Github activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2098](https://github.com/homarr-labs/homarr/issues/2098#issuecomment-2908778578) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
+1. 🗣 Commented on [#2514](https://github.com/homarr-labs/homarr/pull/2514#issuecomment-3314672697) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 2. 🗣 Commented on [#2514](https://github.com/homarr-labs/homarr/pull/2514#issuecomment-2905918538) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 3. ❗ Opened issue [#3080](https://github.com/homarr-labs/homarr/issues/3080) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
 4. 🗣 Commented on [#2371](https://github.com/homarr-labs/homarr/issues/2371#issuecomment-2747567246) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)
