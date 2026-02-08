@@ -26,7 +26,6 @@ Currently working on my Certificate III in Information Technology
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I hacked Red Rooster to get unlimited free food](https://www.jackweller.me/blog/redrooster/)
 <!-- BLOG-POST-LIST:END -->
 
 
