@@ -31,7 +31,7 @@ Currently working on my Certificate III in Information Technology
 
 ### Github stats
 
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=jackwellerreal&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=jackwellerreal&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c">
+<img height=200 src="https://readme-stats-six-xi.vercel.app/api?username=jackwellerreal&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://readme-stats-six-xi.vercel.app/api/top-langs/?username=jackwellerreal&layout=donut&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"> <img height=200 src="https://readme-stats-six-xi.vercel.app/api/wakatime?layout=compact&username=jackwellerreal&show_icons=true&hide_border=true&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c">
 
 
 ### Github activity
@@ -47,10 +47,10 @@ Currently working on my Certificate III in Information Technology
     
 ### Some of my projects
 
-<a href="https://github.com/What-Question-Mark/chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=chat&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
-<a href="https://github.com/What-Question-Mark/campusroute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=campusroute&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
-<a href="https://github.com/What-Question-Mark/konnect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=konnect&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
-<a href="https://github.com/What-Question-Mark/nodejs-maze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a><br>
+<a href="https://github.com/jackwellerreal/chat"><img src="https://readme-stats-six-xi.vercel.app/api/pin/?username=jackwellerreal&repo=chat&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
+<a href="https://github.com/jackwellerreal/nodejs-maze"><img src="https://readme-stats-six-xi.vercel.app/api/pin/?username=jackwellerreal&repo=nodejs-maze&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
+<a href="https://github.com/jackwellerreal/translink"><img src="https://readme-stats-six-xi.vercel.app/api/pin/?username=jackwellerreal&repo=translink&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a>
+<a href="https://github.com/jackwellerreal/skyguessr"><img src="https://readme-stats-six-xi.vercel.app/api/pin/?username=jackwellerreal&repo=skyguessr&show_icons=true&hide_border=True&title_color=699ce2&text_color=f1f2f4&icon_color=699ce2&bg_color=0d131c"></a><br>
 <a href="https://github.com/jackwellerreal?tab=repositories">View more</a>
 
 
